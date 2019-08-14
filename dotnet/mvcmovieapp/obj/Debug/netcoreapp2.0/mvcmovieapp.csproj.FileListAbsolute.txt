@@ -1,0 +1,10 @@
+e:\workspace\handson\dotnet\mvcmovieapp\bin\Debug\netcoreapp2.0\mvcmovieapp.deps.json
+e:\workspace\handson\dotnet\mvcmovieapp\bin\Debug\netcoreapp2.0\mvcmovieapp.runtimeconfig.json
+e:\workspace\handson\dotnet\mvcmovieapp\bin\Debug\netcoreapp2.0\mvcmovieapp.runtimeconfig.dev.json
+e:\workspace\handson\dotnet\mvcmovieapp\bin\Debug\netcoreapp2.0\mvcmovieapp.dll
+e:\workspace\handson\dotnet\mvcmovieapp\bin\Debug\netcoreapp2.0\mvcmovieapp.pdb
+e:\workspace\handson\dotnet\mvcmovieapp\obj\Debug\netcoreapp2.0\mvcmovieapp.csproj.CoreCompileInputs.cache
+e:\workspace\handson\dotnet\mvcmovieapp\obj\Debug\netcoreapp2.0\mvcmovieapp.AssemblyInfoInputs.cache
+e:\workspace\handson\dotnet\mvcmovieapp\obj\Debug\netcoreapp2.0\mvcmovieapp.AssemblyInfo.cs
+e:\workspace\handson\dotnet\mvcmovieapp\obj\Debug\netcoreapp2.0\mvcmovieapp.dll
+e:\workspace\handson\dotnet\mvcmovieapp\obj\Debug\netcoreapp2.0\mvcmovieapp.pdb

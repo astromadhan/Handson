@@ -1,0 +1,9 @@
+E:\workspace\handson\dotnet\unittesting\PrimeService\bin\Debug\netstandard2.0\PrimeService.deps.json
+E:\workspace\handson\dotnet\unittesting\PrimeService\bin\Debug\netstandard2.0\PrimeService.dll
+E:\workspace\handson\dotnet\unittesting\PrimeService\bin\Debug\netstandard2.0\PrimeService.pdb
+E:\workspace\handson\dotnet\unittesting\PrimeService\obj\Debug\netstandard2.0\PrimeService.csprojResolveAssemblyReference.cache
+E:\workspace\handson\dotnet\unittesting\PrimeService\obj\Debug\netstandard2.0\PrimeService.csproj.CoreCompileInputs.cache
+E:\workspace\handson\dotnet\unittesting\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfoInputs.cache
+E:\workspace\handson\dotnet\unittesting\PrimeService\obj\Debug\netstandard2.0\PrimeService.AssemblyInfo.cs
+E:\workspace\handson\dotnet\unittesting\PrimeService\obj\Debug\netstandard2.0\PrimeService.dll
+E:\workspace\handson\dotnet\unittesting\PrimeService\obj\Debug\netstandard2.0\PrimeService.pdb
